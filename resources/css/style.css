@@ -1,11 +1,29 @@
 body {
+  font-family: helvetica;
   text-align: center;
 }
 
-
+head, nav{
+  background-image:url(./resources/images/the-flatiron-building.png)
+}
 title {
-  font-family: helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
+
+nav {
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+ p {font-size:14px;}
